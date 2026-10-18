@@ -1,0 +1,829 @@
+WEBFORGE SIGNATURE — PREMIUM WEBSITE PROJECT
+
+MALKI BRIDAL & BEAUTY | MALKI’S MIRACLE MAKEOVERS
+
+1. YOUR ROLE
+
+Act as an award-winning creative director, luxury beauty brand designer, senior frontend developer, UI/UX architect, motion designer and conversion optimization specialist.
+
+Create a complete, responsive, production-quality website concept for Malki Bridal & Beauty, also known as Malki’s Miracle Makeovers, a bridal and beauty salon in Kandy, Sri Lanka.
+
+This project is being developed by WebForge Signature as a custom website concept for a real prospective client who has requested a sample.
+
+The client has explicitly requested the following design direction:
+
+“I like minimal yet some floral details in background kind of and feminine fonts plus some baby pink rose goldish thing. When someone sees the site it has to feel minimal feminine and luxurious.”
+
+THIS CLIENT BRIEF IS THE HIGHEST DESIGN PRIORITY.
+
+Translate her request into a sophisticated, cohesive digital experience. Do not replace her preferred aesthetic with a generic luxury website template.
+
+The final website must look commercially credible, polished, bespoke and ready to present to the client.
+
+Do not stop after describing the design. Build the complete working website.
+
+⸻
+
+2. BUSINESS INFORMATION
+
+Business name: Malki Bridal & Beauty
+
+Alternative business name: Malki’s Miracle Makeovers
+
+Owner / artist name: Malki Rajapaksha
+
+Business location: No. 107, Ampitiya Road, Kandy 20000, Sri Lanka
+
+Business telephone: +94 77 278 0838
+
+WhatsApp link:
+https://wa.me/94772780838
+
+Previously listed website:
+http://kandycity.lk/malkismiracle
+
+Treat the existing website address as a reference to investigate, not as proof that it is current or owned by the client. Do not overwrite, claim ownership of or modify the existing site.
+
+The website concept is being developed by WebForge Signature.
+
+Publicly described services include bridal dressing, makeup, hair, nails, skin and body care, special-occasion makeovers, customized bridal jewellery hire and artificial bouquets.
+
+Booking requirements communicated by the business:
+
+* Appointments must be booked in advance.
+* Customers should enquire about the selected service and preferred date and time.
+* The salon confirms appointment availability.
+* Advance payment is required to secure a confirmed appointment.
+
+Do not invent prices, opening hours, email addresses, customer testimonials, qualifications, awards, years of experience, guarantees or appointment availability.
+
+Where information is missing, create clearly editable placeholders instead of fabricating business facts.
+
+⸻
+
+3. CORE BRAND IDENTITY
+
+The website must communicate five qualities immediately:
+
+1. Minimal.
+2. Feminine.
+3. Luxurious.
+4. Romantic.
+5. Trustworthy.
+
+The design should resemble a refined bridal editorial, premium beauty campaign and elegant boutique brand.
+
+The experience must feel delicate and expensive without becoming visually busy.
+
+Use negative space, precise typography, balanced image composition, subtle decorative details and sophisticated visual rhythm.
+
+The website must NOT resemble:
+
+* A generic salon website template.
+* A basic beauty booking application.
+* An excessively pink website for children.
+* A black-and-gold luxury template.
+* A cluttered bridal catalogue.
+* A page full of identical rounded cards.
+* A website overloaded with flowers, glitter or animations.
+
+The luxury must come from restraint, imagery, typography and composition.
+
+⸻
+
+4. APPROVED DESIGN DIRECTION AND COLOUR PALETTE
+
+The client requested baby pink, rose-gold-inspired accents, feminine fonts and subtle floral background details.
+
+Use the following proposed palette to translate her request into a consistent visual system.
+
+MAIN BACKGROUND — WARM IVORY
+#FFFCF8
+
+SOFT BABY PINK
+#F4C9D5
+
+PALE BLUSH
+#FBE8ED
+
+ROSE GOLD
+#D6A078
+
+DUSTY ROSE
+#B87980
+
+DEEP PLUM
+#38252F
+
+SOFT BORDER
+#E9DFD8
+
+WHITE
+#FFFFFF
+
+These hex codes are proposed design specifications, not colour codes supplied by the client.
+
+Colour distribution
+
+Use warm ivory as the dominant background.
+
+Use white and pale blush to create subtle differences between sections.
+
+Use baby pink for delicate accents, small background details and selected visual highlights.
+
+Use dusty rose for important buttons, active navigation states and carefully selected emphasis.
+
+Use rose gold sparingly for fine botanical illustrations, elegant dividers, tiny decorative ornaments and subtle borders.
+
+Use deep plum for headlines, navigation, body text and high-contrast elements.
+
+Do not apply rose gold to large surfaces.
+
+Do not use gradients everywhere.
+
+Do not make every section pink.
+
+Maintain excellent readability, accessible contrast and a cohesive visual rhythm.
+
+⸻
+
+5. TYPOGRAPHY
+
+Typography is essential to the feminine, luxurious identity.
+
+Use an elegant editorial serif for major headlines and section titles.
+
+Recommended headline fonts:
+
+* Cormorant Garamond.
+* Playfair Display.
+* Bodoni Moda, used selectively.
+
+Recommended body fonts:
+
+* DM Sans.
+* Manrope.
+* Lato.
+
+Use a graceful serif italic for selected words or small decorative phrases, not every heading.
+
+Create a clear hierarchy between:
+
+* Navigation.
+* Hero headline.
+* Section headings.
+* Descriptive paragraphs.
+* Service titles.
+* Buttons.
+* Small labels and captions.
+
+Use generous line spacing, carefully controlled line lengths and balanced letter spacing.
+
+Avoid excessively thin text that becomes difficult to read on mobile.
+
+Load fonts efficiently and provide sensible fallback fonts.
+
+⸻
+
+6. FLORAL BACKGROUND DETAILS
+
+This is a specific client requirement.
+
+Integrate delicate botanical details into the visual design.
+
+Possible treatments:
+
+* Fine rose outlines in selected corners.
+* Pale botanical line drawings behind section introductions.
+* Very subtle floral shadows near the hero edges.
+* Delicate rose-gold ornamental dividers.
+* Sparse botanical illustrations near the footer.
+* Fine floral motifs inspired by luxury wedding stationery.
+
+Floral decorations must remain secondary to the actual content and photography.
+
+Use SVG illustrations, optimized transparent assets or subtle CSS details where appropriate.
+
+Keep decorations low-contrast and carefully positioned.
+
+On mobile, reduce or remove decorative details that interfere with text, photography or controls.
+
+Do not use:
+
+* Dense floral wallpaper.
+* Large flower clusters behind every section.
+* Repetitive rose stickers.
+* Excessive flower animations.
+* Glitter particles.
+* Decorative elements that reduce text readability.
+
+The floral styling should feel like elegant bridal stationery, not a flower shop.
+
+⸻
+
+7. NAVIGATION
+
+Create a refined, lightweight navigation bar.
+
+Brand wordmark:
+MALKI
+
+Supporting label:
+BRIDAL & BEAUTY
+
+Navigation:
+
+* Home
+* Bridal
+* Services
+* Gallery
+* About
+* Contact
+
+Primary CTA:
+ENQUIRE ON WHATSAPP
+
+Use elegant typography, balanced spacing and restrained rose-gold details.
+
+The navigation should be transparent or visually integrated with the hero when appropriate, transitioning to a soft ivory background when scrolling.
+
+Implement a working mobile menu with keyboard accessibility, visible focus states and proper open/close behaviour.
+
+Ensure the logo and navigation never collide on small screens.
+
+⸻
+
+8. CINEMATIC HERO SECTION
+
+The hero must be visually exceptional but remain minimal.
+
+Use one beautiful, high-quality bridal portrait as the primary visual focus.
+
+The image should feature a Sri Lankan bride with elegant bridal styling, realistic skin texture, tasteful jewellery and refined makeup.
+
+Prefer real, authorized photographs of the salon’s work when the client provides them.
+
+Until then, use an appropriate temporary editorial image and do not represent an AI-generated model as a real salon customer.
+
+Layout
+
+Use a spacious editorial composition.
+
+Place the headline and supporting text on one side, with the bridal portrait occupying the other side or forming a carefully composed full-screen background.
+
+Preserve sufficient negative space for text.
+
+Use a subtle ivory overlay only when required for readability.
+
+Add delicate botanical corner details without cluttering the composition.
+
+Hero copy
+
+Eyebrow:
+BRIDAL ARTISTRY • KANDY, SRI LANKA
+
+Headline:
+“Your Beauty.
+Your Story.
+Your Special Day.”
+
+Supporting text:
+“Bridal artistry and personalised beauty, thoughtfully created for your most meaningful moments.”
+
+Primary CTA:
+EXPLORE BRIDAL LOOKS
+
+Secondary CTA:
+ENQUIRE ON WHATSAPP
+
+Add a subtle scroll indicator if it complements the design.
+
+Motion
+
+Use graceful, restrained movement:
+
+* Soft image fade-in.
+* Subtle text reveal.
+* Gentle image parallax where performance permits.
+* Smooth transitions between sections.
+
+An optional muted, looping hero video may be used if a suitable asset is available.
+
+If using video:
+
+* Provide a still-image fallback.
+* Use an optimized video format.
+* Avoid audio autoplay.
+* Respect reduced-motion preferences.
+* Prevent layout shifts during loading.
+* Ensure mobile performance remains excellent.
+
+Do not make the hero confusing, excessively animated or difficult to understand.
+
+The visitor should immediately recognize that this is a bridal and beauty business.
+
+⸻
+
+9. BRAND INTRODUCTION
+
+Create an elegant introduction section with a strong editorial composition.
+
+Suggested heading:
+“Beauty, Thoughtfully Personalised.”
+
+Suggested supporting copy:
+“Every look is an opportunity to celebrate your individuality. From meaningful bridal moments to special occasions, discover beauty services designed around your style.”
+
+Keep the copy warm, personal and refined.
+
+Use one complementary image and subtle botanical details.
+
+Do not invent the owner’s professional history, qualifications or years of experience.
+
+⸻
+
+10. SIGNATURE BRIDAL EXPERIENCE
+
+Create a visually rich section dedicated to bridal styling.
+
+Include these categories:
+
+* Traditional Kandyan bridal styling.
+* Modern bridal elegance.
+* Bridal makeup.
+* Bridal hair and dressing.
+
+Use large, editorial-quality imagery and varied image compositions.
+
+Avoid displaying every category in the same generic card layout.
+
+Each category should have:
+
+* A clear title.
+* A concise description.
+* An appropriate photograph.
+* An optional link to the gallery or WhatsApp enquiry.
+
+Suggested heading:
+“Made for Your Most Meaningful Moments.”
+
+Use elegant typography and subtle rose-gold separators.
+
+All service wording must remain editable.
+
+Do not claim the salon offers specific package inclusions unless confirmed.
+
+⸻
+
+11. BEAUTY SERVICES
+
+Create a carefully organized services section.
+
+Include the following publicly described categories:
+
+Bridal Dressing & Makeup
+
+Bridal styling and makeup for a memorable wedding-day look.
+
+Hair Styling
+
+Haircuts, colouring and styling for individual preferences and special occasions.
+
+Nails & Beauty Care
+
+Nail services and selected beauty treatments.
+
+Skin & Body Care
+
+Beauty and personal-care services offered by the salon.
+
+Special-Occasion Makeovers
+
+Makeup and styling for engagements, pre-shoots, wedding guests, graduations and other events.
+
+Bridal Accessories
+
+Customized bridal jewellery hire and artificial bouquets.
+
+Keep descriptions concise and accurate.
+
+Do not invent prices, treatment results, product brands or service durations.
+
+If prices are later supplied by the client, structure them in an easy-to-edit service menu.
+
+Use a mix of elegant typography, fine line icons and carefully selected images.
+
+Do not use generic emoji as service icons.
+
+⸻
+
+12. TRANSFORMATION GALLERY
+
+Create a premium bridal and beauty portfolio.
+
+This is one of the most important sections of the website.
+
+Suggested heading:
+“Every Look Tells a Story.”
+
+Use a responsive, editorial gallery with varied image proportions and intentional whitespace.
+
+Suggested filter categories:
+
+* All
+* Bridal
+* Soft Glam
+* Hair
+* Special Occasions
+* Bridal Details
+
+Only display filters for categories that have corresponding images.
+
+Gallery requirements:
+
+* Responsive image layout.
+* Smooth, restrained hover effects.
+* Accessible image enlargement.
+* Keyboard-operable lightbox.
+* Visible close button.
+* Escape-key support.
+* Useful image alternative text.
+* Lazy loading for off-screen images.
+* Optimized image sizes.
+
+Use genuine business photographs when provided and authorized.
+
+For the initial demo, use suitable temporary editorial imagery. Keep temporary assets easy to replace.
+
+Do not invent client names, testimonials, before-and-after results or claims that a particular image depicts Malki’s actual work.
+
+Never imply that generated photography represents real salon customers.
+
+⸻
+
+13. PERSONALIZED BEAUTY PHILOSOPHY
+
+Create a sophisticated visual section explaining the salon’s personalized approach to beauty.
+
+Suggested heading:
+“Beautifully You, in Every Detail.”
+
+Suggested supporting copy:
+“Thoughtful makeup, considered styling and a personal approach to beauty — with looks designed to complement your natural features, skin tone and individual style.”
+
+Use a close-up portrait or a detail-oriented beauty photograph.
+
+Keep the layout airy and understated.
+
+Do not promise specific cosmetic or medical outcomes.
+
+⸻
+
+14. ABOUT MALKI
+
+Create a personal introduction section that helps visitors connect with the salon.
+
+Use the name:
+Malki Rajapaksha
+
+Suggested heading:
+“The Artist Behind the Look.”
+
+Do not invent a biography.
+
+Do not claim certifications, awards, professional affiliations, years of experience or achievements without confirmation.
+
+If no approved portrait is available, use a tasteful temporary image that can be replaced easily.
+
+Create an editable paragraph describing the salon’s personalized beauty approach without attributing unverified personal claims to Malki.
+
+Include an optional WhatsApp enquiry CTA.
+
+⸻
+
+15. APPOINTMENT ENQUIRY EXPERIENCE
+
+The booking section must accurately reflect the salon’s real booking process.
+
+Suggested heading:
+“Let’s Plan Your Perfect Look.”
+
+Supporting copy:
+“Tell us about your occasion, your preferred service and your desired date. Our team will help you enquire about availability and the next steps.”
+
+Three-step booking explanation
+
+STEP 1 — CHOOSE YOUR SERVICE
+Select the service you are interested in.
+
+STEP 2 — SEND YOUR ENQUIRY
+Provide your preferred date and time.
+
+STEP 3 — CONFIRM WITH THE SALON
+The salon confirms availability and shares advance-payment instructions.
+
+Clearly state:
+“All appointments must be booked in advance. Availability is confirmed by the salon, and advance payment is required to secure a confirmed appointment.”
+
+Enquiry form fields
+
+* Full name — required.
+* WhatsApp number — optional.
+* Service of interest — required.
+* Preferred date — required.
+* Preferred time — required.
+* Occasion details — optional.
+* Additional message — optional.
+
+Validate the required fields and display clear error messages.
+
+If the project has no backend, submitting the form must create a correctly encoded, prefilled WhatsApp message using the verified business link:
+
+https://wa.me/94772780838
+
+The message should include the customer’s name, selected service, preferred date, preferred time and optional notes.
+
+Do not silently discard the user’s information.
+
+Do not claim that an enquiry has been delivered or that an appointment has been booked until the user actually sends the WhatsApp message and the salon confirms availability.
+
+Do not invent live availability, automated booking confirmations, payment verification or booking database functionality.
+
+Make the form mobile-friendly and easy to complete.
+
+⸻
+
+16. LOCATION & CONTACT
+
+Create a refined contact section featuring:
+
+Business name:
+Malki Bridal & Beauty
+
+Alternative brand:
+Malki’s Miracle Makeovers
+
+Address:
+No. 107, Ampitiya Road, Kandy 20000, Sri Lanka
+
+Telephone:
++94 77 278 0838
+
+WhatsApp:
+https://wa.me/94772780838
+
+Google Maps search:
+https://www.google.com/maps/search/?api=1&query=107+Ampitiya+Road+Kandy+Sri+Lanka
+
+Provide functional telephone, WhatsApp and Maps links.
+
+Do not invent an email address.
+
+Do not add unverified social profile URLs.
+
+If verified official Instagram or Facebook URLs are provided later, incorporate them into the footer and contact section.
+
+Do not display fabricated opening hours.
+
+⸻
+
+17. FOOTER
+
+Create a minimal, elegant footer using warm ivory, subtle botanical details and refined typography.
+
+Include:
+
+* MALKI wordmark.
+* Bridal & Beauty descriptor.
+* Navigation links.
+* Verified contact details.
+* WhatsApp appointment CTA.
+* Location link.
+* Verified social links only, when available.
+
+Add a discreet attribution:
+“Website concept by WebForge Signature.”
+
+Because this is a demonstration for a prospective client, do not imply that the website is already officially approved, commissioned or operated by the salon.
+
+Keep the footer uncluttered.
+
+⸻
+
+18. INTERACTION & MOTION DESIGN
+
+Use motion to improve the experience, not distract from the content.
+
+Implement:
+
+* Smooth scrolling where appropriate.
+* Refined navigation transitions.
+* Subtle reveal animations.
+* Gentle gallery hover effects.
+* Accessible gallery lightbox.
+* Functional service filters.
+* Functional WhatsApp links.
+* Working form validation.
+* Responsive mobile navigation.
+* Clear focus and hover states.
+
+Use CSS transitions or a suitable lightweight animation library.
+
+Avoid unnecessary heavy animation libraries.
+
+Respect the user’s reduced-motion preference.
+
+Ensure content remains accessible when animations are disabled.
+
+No dead buttons, decorative controls that do nothing or fake loading states.
+
+⸻
+
+19. RESPONSIVE DESIGN
+
+Build and test for:
+
+* Small iPhones.
+* Large smartphones.
+* Tablets.
+* Standard laptop screens.
+* Large desktop displays.
+
+Mobile is a priority because prospective customers may open the site directly from WhatsApp.
+
+Ensure:
+
+* Readable font sizes.
+* Comfortable tap targets.
+* No horizontal overflow.
+* No overlapping hero text.
+* Proper image cropping.
+* Correctly scaled floral decorations.
+* Easy WhatsApp access.
+* Fast loading.
+* Accessible navigation.
+* Forms that are easy to complete on a phone.
+
+Do not simply shrink the desktop design.
+
+Design a deliberate mobile composition.
+
+⸻
+
+20. PERFORMANCE, ACCESSIBILITY & SEO
+
+Use semantic HTML and accessible components.
+
+Provide:
+
+* Meaningful heading hierarchy.
+* Image alt text.
+* Keyboard navigation.
+* Visible focus indicators.
+* Sufficient text contrast.
+* Proper form labels.
+* Accessible modal behaviour.
+* Reduced-motion support.
+
+Optimize images and video.
+
+Use modern image formats where appropriate.
+
+Lazy-load off-screen imagery.
+
+Prevent cumulative layout shifts.
+
+Keep JavaScript lightweight.
+
+Add:
+
+* Appropriate page title.
+* Meta description.
+* Open Graph metadata.
+* Favicon support.
+* Canonical URL placeholder until the production domain is known.
+* Relevant structured data using verified business facts only.
+
+Suggested title:
+“Malki Bridal & Beauty | Bridal Makeup & Beauty in Kandy”
+
+Suggested description:
+“Explore bridal dressing, makeup, hair styling and beauty services from Malki Bridal & Beauty in Kandy, Sri Lanka. Enquire about your preferred service and appointment date.”
+
+Do not add fabricated reviews or aggregate ratings to structured data.
+
+Do not claim search ranking results.
+
+⸻
+
+21. TECHNICAL IMPLEMENTATION
+
+Build a complete, runnable website.
+
+Choose the stack based on the capabilities of the environment.
+
+If the environment supports React, create a clean React application with reusable components.
+
+If a static website is more suitable, use maintainable HTML, CSS and JavaScript.
+
+Organize the project logically.
+
+Suggested components:
+
+* Header
+* Hero
+* BrandIntroduction
+* BridalExperience
+* Services
+* Gallery
+* BeautyPhilosophy
+* About
+* BookingEnquiry
+* Contact
+* Footer
+
+Separate content and assets where practical so the client can replace images, edit service descriptions and update verified business information easily.
+
+Use reusable design tokens for the colour palette, typography, spacing and transitions.
+
+Do not build unnecessary authentication, an admin dashboard, payment processing or a booking backend for this demonstration.
+
+The initial demo only requires the working frontend and WhatsApp enquiry flow.
+
+Ensure any external assets have suitable usage rights.
+
+If deploying to GitHub Pages, ensure the build works at the actual repository path and that asset URLs resolve correctly.
+
+Do not claim the website has been published unless deployment has actually succeeded.
+
+⸻
+
+22. QUALITY ASSURANCE
+
+Before delivering the website, check every item below.
+
+DESIGN:
+
+* The client’s baby-pink and rose-gold-inspired palette is consistently applied.
+* The main background is warm ivory.
+* Feminine editorial typography is used correctly.
+* Floral details are subtle and elegant.
+* The website feels minimal rather than empty.
+* The design is not a generic salon template.
+* The hero is visually impressive and immediately understandable.
+
+CONTENT:
+
+* Business information is accurate.
+* No prices or credentials have been invented.
+* No fake testimonials have been added.
+* Temporary images are easy to replace.
+* The demo is not misrepresented as an approved production website.
+
+FUNCTIONALITY:
+
+* All navigation links work.
+* All CTA buttons work.
+* WhatsApp opens the correct destination.
+* The enquiry form validates required fields.
+* The WhatsApp enquiry contains the correct information.
+* The gallery filters work.
+* The lightbox opens and closes correctly.
+* The mobile menu works.
+* No buttons are decorative but nonfunctional.
+
+TECHNICAL:
+
+* The site builds successfully.
+* No broken assets.
+* No console errors.
+* No horizontal overflow.
+* Responsive behaviour checked at multiple viewport widths.
+* Video fallback works.
+* Accessibility and reduced-motion behaviour checked.
+* Deployment configuration is correct for the chosen host.
+
+⸻
+
+23. FINAL CREATIVE STANDARD
+
+The final result should feel like a bespoke website commissioned by a discerning bridal beauty brand and created by a premium digital studio.
+
+It must express the client’s actual preference:
+
+MINIMAL.
+FEMININE.
+LUXURIOUS.
+BABY PINK.
+ROSE GOLD.
+DELICATE FLORAL DETAILS.
+
+Do not overdecorate.
+
+Do not sacrifice usability for appearance.
+
+Do not deliver a static design description when a working website can be built.
+
+Build the complete experience, test it, and provide the runnable project files and clear deployment instructions.
+
+The objective is to present Malki with a beautiful, convincing website concept that demonstrates the quality of WebForge Signature and creates a credible path toward a paid website project.
