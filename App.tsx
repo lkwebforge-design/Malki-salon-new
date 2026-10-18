@@ -216,6 +216,22 @@ function App() {
 
   return (
     <div className="site-shell">
+      <div className="petal-rain" aria-hidden="true">
+        {Array.from({ length: typeof window !== "undefined" && window.matchMedia("(max-width: 600px)").matches ? 14 : 24 }, (_, index) => (
+          <span
+            className="falling-petal"
+            key={index}
+            style={{
+              left: `${(index * 37 + 11) % 100}%`,
+              animationDelay: `-${(index * 1.73) % 22}s`,
+              animationDuration: `${11 + ((index * 7) % 13)}s`,
+              ["--drift" as string]: `${(index % 2 === 0 ? 1 : -1) * (35 + (index * 19) % 90)}px`,
+              ["--spin" as string]: `${240 + (index * 83) % 600}deg`,
+              ["--petal-size" as string]: `${9 + (index * 3) % 10}px`,
+            }}
+          />
+        ))}
+      </div>
       <header className={`site-header ${scrolled ? "site-header--scrolled" : ""}`}>
         <a className="wordmark" href="#home" onClick={handleNavClick} aria-label="Malki Bridal & Beauty home">
           <span className="wordmark__name">MALKI</span>
