@@ -248,26 +248,19 @@ function App() {
       {menuOpen && <div className="mobile-menu"><nav aria-label="Mobile navigation">{navItems.map((item) => <a key={item.href} href={item.href} onClick={handleNavClick}>{item.label}<ArrowUpRight size={16} /></a>)}<a className="mobile-menu__cta" href={WHATSAPP_URL} target="_blank" rel="noreferrer" onClick={handleNavClick}>Enquire on WhatsApp <MessageCircle size={17} /></a></nav></div>}
 
       <main>
-        <section className="hero hero--editorial" id="home">
-          <div className="hero__editorial-wash" />
-          <div className="hero__editorial-top"><span>MAKEUP · BRIDAL · BEAUTY</span><span>KANDY, SRI LANKA</span></div>
-          <div className="hero__editorial-layout page-width">
-            <Reveal className="hero__copy hero__copy--editorial">
-              <p className="hero__eyebrow">YOUR MOMENT, BEAUTIFULLY TOLD</p>
-              <h1>Beauty in<br />every <em>petal.</em></h1>
+        <section className="hero" id="home">
+          <div className="hero__wash" />
+          <div className="hero__floral"><FloralMark /></div>
+          <div className="hero__copy-wrap page-width">
+            <Reveal className="hero__copy">
+              <SectionLabel>Bridal artistry <span className="section-label__dot">•</span> Kandy, Sri Lanka</SectionLabel>
+              <h1>Your beauty.<br /><em>Your story.</em><br />Your special day.</h1>
               <p className="hero__lede">Bridal artistry and personalised beauty, thoughtfully created for your most meaningful moments.</p>
-              <div className="hero__actions"><a className="button button--dark" href="#bridal">Discover your bridal look <ArrowDownRight size={17} /></a><a className="text-link" href={WHATSAPP_URL} target="_blank" rel="noreferrer">Enquire on WhatsApp <ArrowUpRight size={16} /></a></div>
-              <div className="hero__editorial-note"><span className="hero__note-rule" /> A LITTLE MAGIC. A LASTING MEMORY.</div>
+              <div className="hero__actions"><a className="button button--dark" href="#bridal">Explore bridal looks <ArrowDownRight size={17} /></a><a className="text-link" href={WHATSAPP_URL} target="_blank" rel="noreferrer">Enquire on WhatsApp <ArrowUpRight size={16} /></a></div>
             </Reveal>
-            <div className="hero__portrait-stage">
-              <div className="hero__portrait-backdrop" />
-              <div className="hero__image-frame hero__image-frame--editorial"><img src={images.hero} alt="Temporary editorial portrait for the Malki Bridal & Beauty concept" fetchPriority="high" /><span className="image-note">Concept image · replace with approved salon photography</span></div>
-              <div className="hero__flower hero__flower--one" aria-hidden="true"><svg viewBox="0 0 220 220"><g transform="translate(110 110)"><ellipse rx="30" ry="68" cy="-45" fill="#fffdfb"/><ellipse rx="30" ry="68" cy="-45" fill="#fffdfb" transform="rotate(45)"/><ellipse rx="30" ry="68" cy="-45" fill="#fffdfb" transform="rotate(90)"/><ellipse rx="30" ry="68" cy="-45" fill="#fffdfb" transform="rotate(135)"/><circle r="25" fill="#f3c4d2"/><circle r="9" fill="#d6a078"/></g></svg></div>
-              <div className="hero__flower hero__flower--two" aria-hidden="true"><svg viewBox="0 0 220 220"><g transform="translate(110 110)"><ellipse rx="25" ry="62" cy="-40" fill="#fffdfb"/><ellipse rx="25" ry="62" cy="-40" fill="#fffdfb" transform="rotate(45)"/><ellipse rx="25" ry="62" cy="-40" fill="#fffdfb" transform="rotate(90)"/><ellipse rx="25" ry="62" cy="-40" fill="#fffdfb" transform="rotate(135)"/><circle r="22" fill="#f3c4d2"/><circle r="8" fill="#d6a078"/></g></svg></div>
-              <div className="hero__portrait-caption"><span>01 / THE BRIDAL EDIT</span><span>PERSONALISED BEAUTY</span></div>
-            </div>
+            <div className="hero__image-frame"><img src={images.hero} alt="Temporary editorial portrait of a fictional Sri Lankan bride with refined styling" fetchPriority="high" /><span className="image-note">Temporary concept image · replace with authorized salon work</span></div>
           </div>
-          <div className="hero__bottom page-width"><span>SCROLL TO DISCOVER</span><span className="hero__scroll-line" /></div>
+          <div className="hero__bottom page-width"><span>Scroll to discover</span><span className="hero__scroll-line" /></div>
         </section>
 
         <section className="intro section-pad page-width">
